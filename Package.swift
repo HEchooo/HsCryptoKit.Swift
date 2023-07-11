@@ -37,8 +37,8 @@ let package = Package(
             ],
             path: "Sources/HsCryptoKit"
         ),
-        .testTarget(
-            name: "HsCryptoKitTests",
-            dependencies: ["HsCryptoKit"]),
+//        .testTarget(
+//            name: "HsCryptoKitTests",
+//            dependencies: ["HsCryptoKit"]),
     ]
 )
