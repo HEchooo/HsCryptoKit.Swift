@@ -1,5 +1,5 @@
 import Foundation
-import secp256k1
+import secp256k1Swift
 
 /// Convenience class over libsecp256k1 methods
 final class EllipticCurveEncrypterSecp256k1 {

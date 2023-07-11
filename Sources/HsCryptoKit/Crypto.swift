@@ -1,7 +1,7 @@
 import Foundation
 import Crypto
 import CommonCrypto
-import secp256k1
+import secp256k1Swift
 import HsExtensions
 
 public struct Crypto {
